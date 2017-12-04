@@ -1,0 +1,26 @@
+---
+title: Welcome to Onboarding Week!
+tasks:
+- Get settled at your workstations (log in to Google Chrome accounts, set up shortcuts
+  you like, etc.)
+- Log in to GCP IAAS dashboard. You should have received an invitation from your facilitator.
+type: story-feature
+weight: 2
+---
+
+Welcome to Onboarding Week!
+### What?
+Onboarding Week is a self-paced, guided exploration of the Cloud Foundry product, embarked upon with other Cloud Foundry newbies. What we hope you get out of it:
+1. A coherent, if cursory, overview of a complicated product.
+1. Empathy for the customer who uses that product.
+1. A little knowledge of the breadth of work 70+ teams are doing around the world.
+1. Experience teaching. Unless you joined Pivotal at the same time as your pair and have been arm-in-arm ever since, you have different backgrounds. Moreover, you each have something valuable to offer to the other. Make sure you share it.
+
+### How?
+1. Take your time.
+1. Be conscious of your pair's progress. Check in frequently to make sure you're both getting the most out of the material.
+1. Read every story completely. You'll feel very silly if you struggle for hours with a problem that turns out to have been addressed in plain English...in a story you didn't read.
+1. If something in a story is missing / is wrong / could be improved, create an issue in the **[pivotal-cf/onboarding repo](https://github.com/pivotal-cf/onboarding/issues)**.
+1. Seriously, take your time. How often are you paid just to learn?
+
+**Pro Tip:** As you begin stories, click the "Start" button. If you feel confident about their content when you finish, click "Finish", "Deliver", and "Accept". If you still have questions on the material, leave it in the delivered state (i.e. with the "Accept"/"Reject" buttons showing) and decide at the end how you would like to follow up on your questions.
